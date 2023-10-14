@@ -158,6 +158,7 @@ footer .social-list{
   color: white;
 }
 
+/* reponsive */
 @media screen and (max-width:1000px) {
   header{
     display: block;
