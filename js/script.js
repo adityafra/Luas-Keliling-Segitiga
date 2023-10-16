@@ -4,6 +4,7 @@ function hasilluassegitiga(){
     let luas = 0.5 * alas * tinggi;
     document.getElementById("luas-s").value = luas;
 }
+
 function hasilkelilingsegitiga(){
     let sisiA = parseFloat(document.getElementById("sisi-a").value);
     let sisiB = parseFloat(document.getElementById("sisi-b").value);
